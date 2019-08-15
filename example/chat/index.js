@@ -98,6 +98,7 @@ export default class Example extends React.Component {
                 avatar: 'https://c-ssl.duitang.com/uploads/item/201904/25/20190425192608_KfZRL.thumb.700_0.jpeg',
               }}
               showUserAvatar={true}
+              showAvatarForEveryMessage={true}
             />
         }
       </View>
